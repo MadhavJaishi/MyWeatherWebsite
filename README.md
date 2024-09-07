@@ -1,0 +1,1 @@
+This weather website provides real-time weather updates for any location entered by the user. Simply input the name of a city or area, and the website will display current conditions, including temperature, humidity, wind speed, and more. The clean, user-friendly interface ensures quick access to accurate weather data at your fingertips.
